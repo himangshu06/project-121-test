@@ -1,0 +1,145 @@
+body{
+    background-color: coral;
+    font-family: 'Pacifico', cursive;
+}
+.header_div{
+    background-color: cornsilk;
+    color: rgb(255, 2, 2);
+}
+.header_div img{
+    width: 100px;
+
+}
+.main_div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+#camera,#result{
+border: 2px solid white;
+width: 310px;
+height: 300px;
+box-shadow: 5px 5px 18px white;
+}
+.main_div button{
+ width: 310px;
+ font-size: 16px;
+ box-shadow: 5px 5px 18px white;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    height: 40px;
+}
+h5{
+    font-size: 50px;
+    color: white;
+    background-color: dodgerblue;
+}
+span{
+    font-size: 50px;
+    color: white;
+    background-color: dodgerblue;
+}
+h4{
+    font-size: 50xp;
+    color: white;
+    background-color: dodgerblue;
+}
+h6{
+    background-color: darkred;
+    color: white;
+    font-size: 50px;
+}
+#kivita{
+    width: 50%;
+    height: 50%;
+    border-radius: 16;
+}
+
+#footer {
+    background: #0f0f0f;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  #footer h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #fff;
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0 0 15px 0;
+  }
+  
+  #footer p {
+    font-size: 15;
+    font-style: italic;
+    padding: 0;
+    margin: 0 0 40px 0;
+  }
+  
+  #footer .social-links {
+    margin: 0 0 40px 0;
+  }
+  
+  #footer .social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: #009961;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+  }
+  
+  #footer .social-links a:hover {
+    background: #00b371;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  #footer .copyright {
+    margin: 0 0 5px 0;
+  }
+  
+  #footer .credits {
+    font-size: 13px;
+  }
+  
+  #footer .credits a {
+    color: #00b371;
+    transition: 0.3s;
+  }
+  
+  #footer .credits a:hover {
+    color: #009961;
+  }
+  
+
